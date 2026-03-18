@@ -32,3 +32,9 @@ show comment in function : ccf
 
 visual mode
 --------
+enter Visual mode: V
+custom quick command list: ??
+show cursor: c
+set function name: d
+add comment: ;
+section function, variable, xref: v

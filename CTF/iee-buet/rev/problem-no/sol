@@ -1,0 +1,11 @@
+[keep in mind if any file check : checksec --file ------ ]
+
+
+$ dd con v = swab <cracmeu> test
+$ hexedit text // this section you can edit hex code like 7F 45 4C edit then -> 7F 44 4C
+
+blog
+wiki-Executable-Linkable-Format
+List file signature
+garykessler.net/library/file-signs.html
+

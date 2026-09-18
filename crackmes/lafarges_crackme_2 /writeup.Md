@@ -14,4 +14,3 @@ solution
 5. then find warning message like "Nope thats not it!\n\r Go write a keygen!"
 6. click follow in diassembler
 7. then understand the instruction
-6. 
